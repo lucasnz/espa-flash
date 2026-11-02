@@ -5,7 +5,7 @@
 
 const ESP_FLASHER_CONFIG = {
     // GitHub repository owner
-    owner: 'wayne-love',
+    owner: 'lucasnz',
     
     // GitHub repository name  
     repo: 'ESPySpa',

@@ -1,8 +1,8 @@
 // Main application logic
 // Update these values whenever the flasher website is released.
 const ESP_FLASHER_RELEASE = Object.freeze({
-    version: '1.1.1',
-    releasedAt: '2026-10-30T21:36:00+13:00'
+    version: '1.1.2',
+    releasedAt: '2026-11-03T10:00:00+13:00'
 });
 
 class ESPFlasher {
